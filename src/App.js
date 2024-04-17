@@ -10,7 +10,7 @@ function App() {
          proyecto react nazi
         </p>
         <p>
-         proyecto react nazi
+        pruebas de github
         </p>
         <a
           className="App-link"
